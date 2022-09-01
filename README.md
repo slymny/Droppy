@@ -1,5 +1,5 @@
 
-# Class 36 final project
+# Droppy
 
 This is the final project for the HackYourFuture curriculum we did as a class using the MERN stack by following the agile methodology with our team and a group of mentors. A quick guide to what we built:
 
